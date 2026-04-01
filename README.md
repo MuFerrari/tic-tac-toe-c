@@ -54,14 +54,17 @@ O objetivo principal é aplicar conceitos fundamentais de programação, como:
 
 ---
 
-📈 Objetivo do Projeto
+### 📈 Objetivo do Projeto
 
 Este projeto faz parte do processo de aprendizado em desenvolvimento de software, com foco em:
 
 Evolução técnica em C
 Criação de portfólio profissional
 Aplicação de conceitos de engenharia de software
-👨‍💻 Autor
+
+---
+
+### 👨‍💻 Autor
 
 Murilo Ferrari
 Estudante de Análise e Desenvolvimento de Sistemas
