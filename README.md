@@ -66,7 +66,7 @@ Aplicação de conceitos de engenharia de software
 
 ### 👨‍💻 Autor
 
-Murilo Ferrari
+Murilo Ferrari \
 Estudante de Análise e Desenvolvimento de Sistemas
 
 🔗 [Meu LinkedIn](https://www.linkedin.com/in/murilo-ferrari-menezes/)
